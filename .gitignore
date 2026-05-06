@@ -1,0 +1,31 @@
+# Node / React
+node_modules/
+dist/
+build/
+.env
+.env.local
+.env.development
+.env.production
+
+# .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Secrets
+secrets.json
+appsettings.Development.json
+local.settings.json
+
+# Logs
+*.log
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
